@@ -1,0 +1,57 @@
+                     *******************************STARTERS******************************************
+  1. Veg Spring Roll             200/-
+  2. Veg Manchurian              253/-
+  3. Gobi Manchurian             253/-
+  4. Chilli Paneer               262/-
+  5. Paneer 65                   262/-
+  6. Egg Spring Roll             212/-
+  7. Chicken Spring Roll         212/-
+  8. Chicken 65                  354/-
+  9. Chilli Chicken              354/-
+ 10. Chicken drumsticks          354/-
+ 11. Apollo Fish                 410/-
+ 12. Chilli Prawns               432/-
+ 
+                      *******************************CHINESE****************************************** 
+ 13. Veg Soft Noodles            211/-
+ 14. Egg Soft Noodles            184/-
+ 15. Chicken Soft Noodles        223/-
+ 16. Veg Fried Rice              211/-
+ 17. Egg Fried Rice              223/-
+ 18. Chicken Fried Rice          223/-
+
+                      *********************************MAINS******************************************        
+ 19. Dal Fry                     229/-
+ 20. Dal Makhani                 229/-
+ 21. Kadai Veg                   229/-
+ 22. Kadai Paneer                241/-
+ 23. Malai Kofta                 241/-
+ 24. Paneer Butter Masala        241/-
+ 25. Palak Paneer                241/-
+ 26. Egg Masala                  229/-
+ 27. Chicken Curry               318/-
+ 28. Fish Masala                 330/-
+ 29. Butter Chicken              330/-
+ 30. Par@dise Special Chicken    330/-
+ 31. Chicken Tikka Masala        330/-
+ 32. Chicken Nawabi              330/-
+ 33. Mutton Rogan Josh           354/-
+ 34. Kadai Gosht                 354/-
+ 35. Prawans Masala              354/-
+ 
+                      *******************************INDIAN BREADS******************************************  
+ 36. Tandori Roti                52/-
+ 37. Rumali Roti                 52/-
+ 38. Plain Naan                  67/-
+ 39. Butter Naan                 77/-
+ 40. Aloo Paratha                77/-
+       
+                       ************************************DESERTS******************************************
+ 41. Double ka Meetha            96/-
+ 42. Qubani ka Meetha           143/-
+ 43. Gulab Jamun                102/-
+ 44. Gajar ka Halwa             119/-
+ 45. Chocolate Brownie          114/-              
+NOTE:
+< 1.> To modify quantity re-enter
+< 2.> To delete a selected item re-enter quantity as 0                  
